@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": "Build a Full Stack App",
+      "day": "Jan 10, 2023",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Playing the Piano",
+      "day": "Jan 11, 2023",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Do Leetcode hard questions",
+      "day": "Jan 12, 2023",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Prepare for final semester",
+      "day": "Jan 16, 2023",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
