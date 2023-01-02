@@ -1,6 +1,6 @@
 # React Task Tracker App
 
-## Mock backend runs on localhost 5000.
+Small react app task tracker app. Mock backend is created using json-server. 
 
 ### `npm run server` to start the mock backend
 
